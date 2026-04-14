@@ -1,0 +1,23 @@
+{
+    "contact":[
+       {
+        "id": "1",
+        "name": "John Doe",
+        "phone": "123-456-7890",
+        "useId": "1"
+       }
+
+    ],
+"users":[
+    {
+        "id":"1",
+        "name":"user1",
+        "email": "user1@gmail.com",
+        "password": "123456"
+
+    }
+]
+    
+}
+
+
